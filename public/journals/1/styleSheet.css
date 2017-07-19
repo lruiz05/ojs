@@ -1,0 +1,13 @@
+
+.navbar-brand {
+  height: 100px;
+}
+
+.navbar-default {
+	background-image: url("http://132.248.14.208/html/terra_digitalis/images/banner-header2.png");
+	background-repeat: no-repeat;;
+}
+
+.navbar {
+	min-height: 200px;
+}

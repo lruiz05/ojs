@@ -166,6 +166,10 @@
 	<message key="editor.article.assignEditor">Añadir editor/a</message>
 	<message key="editor.article.selectEditor">Seleccionar {$roleName}</message>
 	<message key="editor.article.selectDecision">Seleccionar decisión</message>
+	<message key="editor.article.decision.accept">Aceptar envío</message>
+	<message key="editor.article.decision.pendingRevisions">Publicable con modificaciones</message>
+	<message key="editor.article.decision.resubmit">Reevaluable</message>
+	<message key="editor.article.decision.decline">No publicable</message>
 	<message key="editor.article.selectLayoutEditor">Seleccionar maquetista</message>
 	<message key="editor.article.replaceLayoutEditor">Reemplazar maquetista</message>
 	<message key="editor.article.reviewSubmission">Revisar envío</message>
@@ -189,6 +193,7 @@
 	<message key="editor.submissions.lastCompleted">Último completado</message>
 	<message key="editor.submissions.assignedTo">Asignado a</message>
 	<message key="editor.submissions.inSection">En sección</message>
+        <message key="editor.article.schedulePublication">Programar para publicación</message>
 	<message key="editor.article.scheduleForPublication">Programado para publicar en</message>
 	<message key="editor.article.scheduleForPublication.toBeAssigned">Aún sin asignar</message>
 	<message key="editor.article.payment.publicationFeeNotPaid">Cuota de publicación sin pagar. Para programar el elemento para su publicación, notifique al autor/a sobre el pago de la cuota o de su exención.</message>

@@ -21,8 +21,8 @@
 	url = https://github.com/pkp/ojs-user-guide
 [submodule "plugins/generic/lensGalley"]
 	path = plugins/generic/lensGalley
-	url = https://github.com/asmecher/lensGalley
-	branch = i1472-fix
+	url = https://github.com/lruiz05/lensGalley.git
+	branch = master
 [submodule "plugins/generic/googleAnalytics"]
 	path = plugins/generic/googleAnalytics
 	url = https://github.com/pkp/googleAnalytics.git
